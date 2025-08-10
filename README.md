@@ -1,4 +1,5 @@
-[![Django & Kubernetes Logo](https://static.codingforentrepreneurs.com/media/projects/django-kubernetes/images/share/Django__Kubernetes_Tutorial_Series.jpg)](https://www.codingforentrepreneurs.com/projects/django-kubernetes)
+[![Django & Kubernetes Logo](https://static.codingforentrepreneurs.com/media/projects/django-kubernetes/images/share/Django__Kubernetes_Tutorial_Series.jpg)]
+
 # Django & Kubernetes
 
 Learn how to deploy a production-ready Django application into a Kubernetes cluster.
@@ -20,7 +21,7 @@ Kubernetes can do *a lot* which makes it a great tool to learn but also a daunti
 
 - Start a Python Virtual Environment
 - Create a bare bones production-ready Django project 
-- Create a Dockerfile to describe our environment (much like [this blog post](https://www.codingforentrepreneurs.com/blog/django-on-docker))
+- Create a Dockerfile to describe our environment 
 - Use a managed Database service from DitgitalOcean
 - Install Kubernetes locally
 - Start a Kubernetes Cluster on DigitalOcean
@@ -28,14 +29,7 @@ Kubernetes can do *a lot* which makes it a great tool to learn but also a daunti
 - Implement Github Action Workflows to automate future deployments
 
 
-### References
-- [Django on Docker](https://www.codingforentrepreneurs.com/blog/django-on-docker) guide
-- [Docker & Docker Compose](https://www.codingforentrepreneurs.com/projects/docker-and-docker-compose) tutorial series
-- [Github Actions](https://www.codingforentrepreneurs.com/blog/django-github-actions) guide
-- [DigitalOcean $100 credit](https://do.co/cfe-sh) for new accounts
-- [Code](https://github.com/codingforentrepreneurs/Django-Kubernetes)
 
-We have partnered with [DigitalOcean](https://do.co/cfe-sh) to bring you this series. Sign up for an [account](https://do.co/cfe-sh) when you're ready to get started with this series.
 
 
 
