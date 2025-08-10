@@ -1,4 +1,4 @@
-[![Django & Kubernetes Logo](https://static.codingforentrepreneurs.com/media/projects/django-kubernetes/images/share/Django__Kubernetes_Tutorial_Series.jpg)]
+![Django & Kubernetes Logo](https://static.codingforentrepreneurs.com/media/projects/django-kubernetes/images/share/Django__Kubernetes_Tutorial_Series.jpg)
 
 # Django & Kubernetes
 
